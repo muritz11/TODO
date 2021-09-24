@@ -1,0 +1,11 @@
+.text-right{
+    text-align: right;
+}
+
+.border-0:focus{
+    outline: none;
+}
+
+.strike{
+    text-decoration: line-through;
+}
